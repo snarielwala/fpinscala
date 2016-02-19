@@ -1,0 +1,2 @@
+# fpinscala
+Scala Programming Excercises
